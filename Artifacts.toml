@@ -1,0 +1,405 @@
+[[Compose]]
+arch = "aarch64"
+git-tree-sha1 = "c09aaff5770f9ddb8e693ca8a7741df64c67bcb6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Compose.download]]
+    sha256 = "b93f84eebf3ff859dc133204fdf27fc31f644dff593d279117513dfe36bde61d"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[Compose]]
+arch = "aarch64"
+git-tree-sha1 = "9f2e6433eae43d795d13d287a678e1ea06900adc"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "d3c79462fe608c8c3fabdba17c3462ea1d1b4f30c4cfaedac67817040a22e1c0"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[Compose]]
+arch = "aarch64"
+git-tree-sha1 = "ab2bbec916a15fc7af94105e00ea1c606627f7a9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "2062c5bdeb460a481e74a0c6f34e45931616258687a5dc078801bb2c26aeaa42"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[Compose]]
+arch = "aarch64"
+git-tree-sha1 = "45b8a13ad3a36ff3af8063e3f93854887f22c6c5"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "1eb91ef543010cd30b3fe5caef4c69f749351a9a5e06e7f11f2473c95b442e2e"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Compose]]
+arch = "aarch64"
+git-tree-sha1 = "d8acee20d78f978c25447a10824750b7e4b5ced8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "3c57ce53d507a11abc9f5043925e42699bbbcb2c8559b3a3931bd93c15e0a6c1"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[Compose]]
+arch = "aarch64"
+git-tree-sha1 = "b268de83bf62be8506e2ad15df727b1564bab0aa"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "cc9bfcf04ba13467773f416c20018b6b4d351c9239a8de50954b259a93429a2e"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[Compose]]
+arch = "aarch64"
+git-tree-sha1 = "40dd7d23e502c5999b04782271ea2dc01751fa39"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "8adb196935ae84381eface4ed27eb3f790bf54700e205e32ed1f8737c166462c"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[Compose]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "eb08bd105627b15fe0756dd692e3e9a9da703d5c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "7420bb7a05847985322509fe0944f92892632ac9abf4367b66b82e5f17c72233"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Compose]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "05d1cdbf032b1d67049ab714167a47b30ea83ac6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "203aeb673decffa720439db859d0b8eb27a45d91c6fec1f37ffd1db796baa48a"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Compose]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fec21a4dfa3ce7149d341b06ebfb67568e3d429b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "18de42231e218544b4627e041bb109dbeef1a266a7d99772887d4a3d511e2ec3"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Compose]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cb0b684cfe141c64f3b77462011b2e725c16afb2"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "21bc8e084505efbdd0108256cdfe14c26d9323d7305e6a57b7df71733cfdc0b2"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[Compose]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9a80e63ef412f5fae80452ebb61febd3ed5cddc8"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "3c38aab80e2c810dd216228c739618e42ec1fa9d5243b6611abf81a1cd2baa48"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[Compose]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "81e400206b6e4b7864cc15f86d2e5aa21f4ae30c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "f77d5ab169c6cefaa4741c3e3ec0a9e9590b60c30896a96b6a47fd9a3c3befca"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[Compose]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "44f7233607316e99cd4af5d597e828878634ede3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "c38ee116e7342292f7dc763caac27288b5c7a9cfa99f816e2b7dece3b1e0edef"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Compose]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f660ed89bd9de64c50f6b08c60deb003c7b1346a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "f9347934b57cf715795a510cfe108c47578d4c94912aedebdf1c80e73d5eb8a7"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Compose]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b1aeab1a590b151dcf19e16fd454a45b20ea4b92"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "c70fd65d2a9034b9412dcc7177bd6081086f99bd342085471b026f18711e306b"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Compose]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e4ed63fd87ba0f4876f4454f4736f91d1ccd26b6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "de950df33631013ef5aaf939c70247869c61ad88478fc8b6fc356c3e2a6cd8d3"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[Compose]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bfa11310765e9db5b54f2262d7e1f1386659bdd3"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "d8990d5acad7631ccd3c813697bc761b9a820571d2fdd1f5253e96bee57c7e88"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[Compose]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e2b75ae14fb193a38d3042b89eb7ac81b9708514"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "f055c1b1cdb5c57ea6b29137bc0721871cf09c0c1ebbc904ee83c6d2875ccbe1"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[Compose]]
+arch = "i686"
+git-tree-sha1 = "920617063d9b91a9717a5922db0f9da0010175c4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "950fa701ca9153c1aebfbc0045351a58a909ebdbc374b33773b22630412cd865"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[Compose]]
+arch = "i686"
+git-tree-sha1 = "f61261d8516c231a89c037c3273fbda943ab6b6e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "f5eab4cfb90de1c56e8a0a1a7eb4e8e51f014470299c6ed663e78327123daae4"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[Compose]]
+arch = "i686"
+git-tree-sha1 = "0229bcab80b8fbec7934ca656520d771fb1f2a18"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "dd64489c2b691972a818e274e2c04f050f7af98cbf80288bd36fe94a2cc100ff"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[Compose]]
+arch = "i686"
+git-tree-sha1 = "14061d8fe5f5c916b1277da73b1688b903472fa2"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "cb161a800b12ca1d785e84fb9475103ffafcd05fe47b948b2cea0c3ed8af0eee"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.i686-linux-musl-libgfortran3.tar.gz"
+[[Compose]]
+arch = "i686"
+git-tree-sha1 = "3517d2fa01c51816ae82e6ad5d30b14de322ddef"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "021c80a6c2d160a201f5334b7b8aade7917895db71f81f79d06cba1bd054d8ca"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.i686-linux-musl-libgfortran4.tar.gz"
+[[Compose]]
+arch = "i686"
+git-tree-sha1 = "fca8ef91924d49233189e6c1e9aef2f05d70c2e2"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "b4c3fa832f2a23e93865c297767f7d763c1f80e8bd4d9651e7ed6042be99c6b1"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.i686-linux-musl-libgfortran5.tar.gz"
+[[Compose]]
+arch = "powerpc64le"
+git-tree-sha1 = "abcc7732f9f0337ba7aad8b8a74dd35853443982"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "72bc26bf30868498a1178e7c1c825693745196cd18875782b5ad0e823de512bc"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Compose]]
+arch = "powerpc64le"
+git-tree-sha1 = "5824257948bb12971f592f3d17bb79ce0e73b843"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "030c09d02fb9122259cad01511b2d16a18a442ddfecfae6349179fc0bd057115"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Compose]]
+arch = "powerpc64le"
+git-tree-sha1 = "f2e314bdcc094b2cc9292533b054b87daa0e1812"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "dd55a4c507f9b624078604d5946f3ec449635d5f5b589bb51268b2906b501a96"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "b08789a11d469c7ba934b3902e5a47d7a6495ebb"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Compose.download]]
+    sha256 = "2f9a7467be1404eadb71b9bb4e7fdc72fb4c5228e4083647b78da312586e61e4"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "9c1faf3a996746bba4d35cf4783e657b3a366ebb"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Compose.download]]
+    sha256 = "db9422532750e16a5a6cd5dc39cebc4bff762db33d5fe82d19ab138df1ade270"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "2e35d6d0f8a0d38ffb0c90b64c47277d8923980d"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Compose.download]]
+    sha256 = "228280b4b7876bab2f4a3b5d97a12b38033cb881caf058fcf8df587f2bb807d8"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "c06796a8b32aec06eb6be574497253a36deaa60c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "00cc7f8c4cb518e071c5c0af64eb036e9555a5a724359d6a4cf163b4edbc4ffd"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "374bce06ea70bc90b47761a004162708091051fb"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "e8c55d43ba5b5ac45d541ecd0030bc4633bee85239c5112ca6b0d1db5a81b29d"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "00d16eec5515578455d694fcaef4fd3c1e143d5a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "294d8a3e4a68ca65555a4f2f6fc6021b20d0eabbfbe6c1f9941a327fbd6396ef"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "6a98bd51d2ee8135d83013e166325dd518504f3b"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "bc1a9fa42155dc4454599e234edc2324afbdd33c2a5f957a6bd44fb32ac3fe3c"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "7bd1251785e6e548fe29200fe2ad03e7cd7a38da"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "8bbaeea128165023a3069be038f2734239e2a0a921f9c3a2eec6327c9747f834"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "d93c0810f8d93d3ca29cd2887a1064042db3f43d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Compose.download]]
+    sha256 = "896e3c07b93a6445b36601cd3e42782bf56501d1853b473e88880abcdb13392c"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "4095584f504e5fcda800d9c82df5301e4a3bd9e2"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[Compose.download]]
+    sha256 = "c0b33beee5c25a41eb1c7f21e9ec4c5baa4462a6ef156b214674beb80321afe5"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "607cceb03cf22b3c86461d2b619874be31bd2b0f"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Compose.download]]
+    sha256 = "ab531723d06b046a0ab126d88e18fce985edaea6a1caff6cd892db46a7485e80"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[Compose]]
+arch = "x86_64"
+git-tree-sha1 = "7b489a8539a9abdebeebdfae77aaf5cb1a11fe7f"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Compose.download]]
+    sha256 = "861d91abda3b0d28163870cf0bb361832560664f590c0730d0caef8bc29ebc6b"
+    url = "https://github.com/JuliaBinaryWrappers/Compose_jll.jl/releases/download/Compose-v2.17.0+0/Compose.v2.17.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
